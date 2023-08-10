@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-package user_service;
+package product_service;
 
-option go_package = "genproto/user_service";
+option go_package = "genproto/product_service";
 
 import "google/protobuf/struct.proto";
 
